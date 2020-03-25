@@ -4,20 +4,20 @@ An archive of foundational reads for DeFi and auxiliary topics, to share with th
 
 🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️🖋️
 
-#DEFI READS
+# DEFI READS
 
-##STABLECOINS
+## STABLECOINS
 
-##DECENTRALIZED EXCHANGES
+## DECENTRALIZED EXCHANGES
 
-##LIQUIDITY POOLS
+## LIQUIDITY POOLS
 
-**[Original proposal of liquidity pool based dex's - Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/)**
-
-
-**[Balancer whitepaper](https://balancer.finance/whitepaper/)**
+[Original proposal of liquidity pool based dex's - Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/)
 
 
-KEEPERS
+[Balancer whitepaper](https://balancer.finance/whitepaper/)
 
-TRUSTLESS DERIVATIVES
+
+## KEEPERS
+
+## TRUSTLESS DERIVATIVES
