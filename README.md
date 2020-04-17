@@ -17,6 +17,10 @@ An archive of foundational reads for DeFi and auxiliary topics, to share with th
 
 [Balancer whitepaper](https://balancer.finance/whitepaper/)
 
+## Scaling
+
+[Optimistic Rollups & DeFi]
+(https://bankless.substack.com/p/when-defi-meets-rollup)
 
 ## Keepers
 
