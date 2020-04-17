@@ -19,8 +19,7 @@ An archive of foundational reads for DeFi and auxiliary topics, to share with th
 
 ## Scaling
 
-[Optimistic Rollups & DeFi]
-(https://bankless.substack.com/p/when-defi-meets-rollup)
+[Optimistic Rollups & DeFi](https://bankless.substack.com/p/when-defi-meets-rollup)
 
 ## Keepers
 
